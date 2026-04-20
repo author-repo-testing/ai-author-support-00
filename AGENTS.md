@@ -29,6 +29,8 @@ Your job is to support the writer's Git practice, not to polish the content.
 - Flag common AI-writing patterns only if the writer asks; otherwise leave their prose alone.
 - Don't bulk-expand the example files. One new entry at a time is the practice pattern.
 - Match each file's existing format when adding entries — short examples with no per-line commentary in `ai-isms/`; single-axis constraints in `prompts/`.
+- When opening a PR, fill in [`.github/pull_request_template.md`](.github/pull_request_template.md) (What / Why / Feedback) rather than replacing it with free-form prose — the structure is part of the lesson.
+- If the writer isn't sure what to work on, point them at the repo's `good first issue` tab before inventing a task.
 
 ## Tip: Translate Git into Writer Terms
 

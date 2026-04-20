@@ -9,6 +9,9 @@
 # These files are created by your operating system and should not be tracked
 # or shared with others in the repository.
 
+# FFA Only
+.ffa/
+
 # macOS
 .DS_Store
 .AppleDouble

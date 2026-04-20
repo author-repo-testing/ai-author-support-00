@@ -1,0 +1,97 @@
+# ──────────────────────────────────────────────
+# File:        .gitignore
+# Description: Specifies intentionally untracked files to ignore.
+# ──────────────────────────────────────────────
+
+# ==============================================================================
+# System Files
+# ==============================================================================
+# These files are created by your operating system and should not be tracked
+# or shared with others in the repository.
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ==============================================================================
+# Environment Variables & Secrets
+# ==============================================================================
+# NEVER commit these files! They contain sensitive information like passwords,
+# API keys, and private tokens. Committing them can compromise your accounts.
+
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.rsa
+id_rsa
+id_rsa.pub
+*.keystore
+
+# ==============================================================================
+# Logs and Databases
+# ==============================================================================
+# These are temporary files or local databases that aren't needed for the code
+# to run on someone else's computer.
+
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# ==============================================================================
+# Temporary Files and Caches
+# ==============================================================================
+# These files are generated temporarily by editors or tools.
+
+*.swp
+*.swo
+.tmp/
+tmp/
+temp/
+
+# ==============================================================================
+# Contributor Specific Overrides
+# ==============================================================================
+# Add your own local files or folders below that you don't want tracked.
+# Examples: personal notes, local test scripts, etc.
+

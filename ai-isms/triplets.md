@@ -1,8 +1,13 @@
 # Triplets
 
-A common AI-assisted writing technique is the “list of three” pattern or “triplet.” When reading, you might notice a sentence structure that groups three parallel words, phrases, or ideas together. This structure is often used in AI-assisted writing because it provides rhythm, emphasis, and a sense of completeness to the writing.
+Tip for writers and agents: do not remove every triplet. Keep the ones that add rhythm. Revise the ones that feel generic, transferable, or overused.
 
-You'll find these triplets most often in sentences like:
+<details>
+<summary><strong>The "List of Three" Pattern</strong></summary>
+
+A common AI-assisted writing habit is the "list of three" pattern, sometimes called a triplet. It groups three parallel words, phrases, or ideas in a way that sounds smooth and complete.
+
+You'll often see triplets in sentences like:
 
 > He was calm, precise, and impossible to read.
 >
@@ -10,20 +15,28 @@ You'll find these triplets most often in sentences like:
 >
 > She offered kindness, patience, and unwavering support.
 
-### Why triplets matter
+</details>
 
-- They sound smooth and deliberate—but become repetitive if overused.
-- They’re easy for AI to generate, so revising them can help your voice stand out.
+<details>
+<summary><strong>Why triplets matter</strong></summary>
 
-### Practice
+- They can add rhythm and emphasis.
+- They become noticeable when every paragraph uses them.
+- AI often produces them automatically, so they are worth checking on purpose.
+
+</details>
+
+<details>
+<summary><strong>Practice</strong></summary>
 
 - Read the examples below.
-- Add your own sentences that use the triplet structure. 
-- When revising AI-drafted text, ask: Should I keep this pattern, vary it, or change it?
+- Add your own sentence that uses the pattern.
+- When revising AI-drafted text, ask whether the triplet sounds earned or automatic.
 
----
+</details>
 
-**Examples of triplet patterns in AI-assisted writing:**
+<details>
+<summary><strong>Examples of triplet patterns in AI-assisted writing</strong></summary>
 
 - Her desk was cluttered with notebooks, receipts, and half-written ideas.
 - The process was slow, methodical, and necessary.
@@ -31,6 +44,27 @@ You'll find these triplets most often in sentences like:
 - They learned to adapt, persist, and grow.
 - The instructions were simple, direct, and easy to follow.
 
----
+</details>
 
-*Contribute*: Append new examples, or paste sentences you find in AI output. When you edit, note if the triplet works or if you think a change would improve the sentence.
+***
+
+<details>
+<summary><strong>How to contribute your own examples</strong></summary>
+
+- Fork this repository.
+- Open the file that contains the triplet list.
+- Add your example in the same format as the existing entries.
+- If possible, include a short note explaining why the triplet feels generic, overused, or distinctly AI-like.
+- Save your changes with a clear commit message, such as `Add examples of common AI-writing triplets`.
+- Open a pull request to this repository.
+- In your pull request, briefly describe what you added and why it belongs on the list.
+
+**Contribution tips**
+
+- Keep examples short.
+- Add clearly cliched triplets.
+- Avoid duplicates unless your example shows a meaningful variation.
+
+**Be respectful:** this list critiques patterns, not people.
+
+</details>

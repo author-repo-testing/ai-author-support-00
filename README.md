@@ -12,7 +12,7 @@ This repository is a small practice workbook for authors learning GitHub and AI-
 
 - `ai-isms/` - short examples of common AI-writing patterns to notice and revise
 - `prompts/` - prompt starters for brainstorming and revision practice
-- `VIBECODERS.md` - short instructions for an AI assistant helping with this repo
+- `AGENTS.md` - instructions for AI assistants helping with this repo (Claude, Gemini, Codex, Cursor, etc.)
 
 ## Good Ways to Practice
 
@@ -20,10 +20,9 @@ This repository is a small practice workbook for authors learning GitHub and AI-
 - Use one revision prompt on a paragraph and save the result in your notes or editor.
 - Make a branch for one small change and write a clear commit message.
 
-## Note for AI Assistants
-
-Make small, reversible edits. Preserve the writer's voice. Prefer concrete changes over extra explanation.
-
 ## License
 
 This repository is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+
+## Github Repo
+author-repo-testing/ai-author-support-00

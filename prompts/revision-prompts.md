@@ -17,3 +17,5 @@ Tip: make one kind of change at a time. Keep the author's intent fixed unless th
 7. Find weak, generic, or unnecessary metaphors in this passage. Remove them or rewrite them so they fit the character's perspective and setting.
 
 8. Locate any triplets or list-of-three patterns in this passage. Suggest where to keep them, vary them, or cut them.
+
+9. Analyze the sentence lengths in this passage. Rewrite a section to mix short, punchy sentences with longer, more flowing ones to create a better narrative rhythm and prevent a monotonous reading experience.

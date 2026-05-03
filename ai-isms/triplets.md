@@ -68,3 +68,21 @@ You'll often see triplets in sentences like:
 **Be respectful:** this list critiques patterns, not people.
 
 </details>
+
+
+<details>
+<summary><strong>Revision example</strong></summary>
+
+AI-generated writing often uses triplets to sound polished, but repeated use can feel predictable.
+
+Example:
+
+> The project was innovative, scalable, and efficient.
+
+Possible revision:
+
+> The project was built to scale efficiently and solve practical problems.
+
+This keeps the meaning while making the sentence feel less formulaic.
+
+</details>
